@@ -10,8 +10,7 @@ Welcome to my GitHub profile! I'm a web developer and designer, passionate about
 
 ## About Me
 
-- 🌍  Based in [Your City, Country]
-- 💼  Web Developer at [Your Company or Freelance]
+- 🌍  Living in [Brampton, Canada]
 - 🎓  Graduate of [Your University] with a degree in [Your Degree]
 
 ## My Projects

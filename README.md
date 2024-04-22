@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I'm a web developer and designer, passionate about
 
 ## About Me
 
-- 🌍  Living in [Brampton, Canada]
-- 🎓  Graduate of [Your University] with a degree in [Your Degree]
+- 🌍  Living in Brampton, Canada
+- 🎓  Graduate of Algoma University with a degree in IT: Gaming, VR and AR
 
 ## My Projects
 

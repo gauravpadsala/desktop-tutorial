@@ -35,8 +35,8 @@ Welcome to my GitHub profile! I'm a web developer and designer, passionate about
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourusername)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/gaurav-padsala-225659249)
+- Email: [gauravpadsala63@gmail.com](mailto:your.email@example.com)
 - Website: [yourwebsite.com](https://yourwebsite.com)
 
 ## My GitHub Stats

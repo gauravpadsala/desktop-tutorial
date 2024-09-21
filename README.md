@@ -29,11 +29,9 @@ Welcome to my GitHub profile! I'm a web developer and designer, passionate about
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 - Tools:
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Unity](https://img.shields.io/badge/Unity-100000.svg?logo=unity&logoColor=white)
-  ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+  [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#)
+  
 ## Get in Touch
 
 - LinkedIn: [GauravPadsala](https://www.linkedin.com/in/gaurav-padsala-225659249)
